@@ -1,0 +1,1 @@
+Open index.html to start. Update firebase-config.js with your Firebase config.
